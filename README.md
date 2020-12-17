@@ -11,14 +11,20 @@ This is a Python script .You Can use it as your own Notepad.
 
 Notepad is a generic text editor  that allows you to create, open, and read plaintext files. If the file contains special formatting or is not a plaintext file, it cannot be read in Notepad. The image is a small example of what the Notepad may look like while running
 
+Demo 1 :
+
 <img src="https://github.com/Koustav-Dey/Advanced-Notepad/blob/main/img_1.png?raw=true" />    
 </a>&nbsp;&nbsp;
 
 <br>
+
+Demo 2 :
 <img src="https://github.com/Koustav-Dey/Advanced-Notepad/blob/main/img_2.png?raw=true" />    
 </a>&nbsp;&nbsp;
 
 <br>
+
+Demo 3 :
 <img src="https://github.com/Koustav-Dey/Advanced-Notepad/blob/main/img_3.png?raw=true" />    
 </a>&nbsp;&nbsp;
 
