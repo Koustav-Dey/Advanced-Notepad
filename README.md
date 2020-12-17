@@ -15,31 +15,23 @@ Demo 1 :
 </a>&nbsp;&nbsp;
 
 <hr>
-
 Demo 2 :
+<hr>
 <img src="https://github.com/Koustav-Dey/Advanced-Notepad/blob/main/img_2.png?raw=true" />    
 </a>&nbsp;&nbsp;
-
-<hr>
-
-Demo 3 :
-<img src="https://github.com/Koustav-Dey/Advanced-Notepad/blob/main/img_3.png?raw=true" />    
-</a>&nbsp;&nbsp;
-
-
 
 ### Using Modules
 
 <p>
-  time<br>socket
+  tkinter<br>os<br>pyttsx3<br>datetime<br>random<br>speech_recognition
 </p>
 
 ### Installing Process
 
 <p>
-  Open Windows Powershell<br>type Python and Hit Enter<br>type pip install sockets<br>paste the code
+  Open Windows Powershell<br>type Python and Hit Enter<br>type pip install "Module Name Above "and install it <br>paste the code
 </p>
 <hr>
 <a>
-    <img src="https://github.com/Koustav-Dey/Client-Sever-Interaction/blob/main/Img/Client-Server-%20Interaction.png?raw=true" />    
+<img src="https://github.com/Koustav-Dey/Advanced-Notepad/blob/main/img_3.png?raw=true" />    
 </a>&nbsp;&nbsp;
