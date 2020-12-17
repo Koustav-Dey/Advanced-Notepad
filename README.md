@@ -1,5 +1,3 @@
- 
-
 # Advanced-Notepad  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
   
 Hii I am Koustav. 
@@ -16,13 +14,13 @@ Demo 1 :
 <img src="https://github.com/Koustav-Dey/Advanced-Notepad/blob/main/img_1.png?raw=true" />    
 </a>&nbsp;&nbsp;
 
-<br>
+<hr>
 
 Demo 2 :
 <img src="https://github.com/Koustav-Dey/Advanced-Notepad/blob/main/img_2.png?raw=true" />    
 </a>&nbsp;&nbsp;
 
-<br>
+<hr>
 
 Demo 3 :
 <img src="https://github.com/Koustav-Dey/Advanced-Notepad/blob/main/img_3.png?raw=true" />    
